@@ -1,1 +1,5 @@
+/**
+ * Create first database nammed test with this command : CREATE DATABASE test;
+ */
+
 GRANT ALL PRIVILEGES ON test.* 'username'@'localhost' IDENTIFIED BY 'userPass';
